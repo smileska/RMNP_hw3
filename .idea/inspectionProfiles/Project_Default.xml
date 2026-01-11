@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="1" class="java.lang.String" itemvalue="pytest" />
+            <item index="2" class="java.lang.String" itemvalue="mypy-django" />
+            <item index="3" class="java.lang.String" itemvalue="pytest-django" />
+            <item index="4" class="java.lang.String" itemvalue="django-stubs" />
+            <item index="5" class="java.lang.String" itemvalue="pylint-django" />
+            <item index="6" class="java.lang.String" itemvalue="django-debug-toolbar" />
+            <item index="7" class="java.lang.String" itemvalue="django-bootstrap5" />
+            <item index="8" class="java.lang.String" itemvalue="channels-redis" />
+            <item index="9" class="java.lang.String" itemvalue="channels" />
+            <item index="10" class="java.lang.String" itemvalue="django-allauth" />
+            <item index="11" class="java.lang.String" itemvalue="daphne" />
+            <item index="12" class="java.lang.String" itemvalue="Pillow" />
+            <item index="13" class="java.lang.String" itemvalue="django-extensions" />
+            <item index="14" class="java.lang.String" itemvalue="kafka-python" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
